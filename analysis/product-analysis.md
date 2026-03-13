@@ -30,23 +30,19 @@ Floowe is an AI-powered content creation and publishing platform that mimics the
   - User registers for a Floowe account.
   - User provides information about their business, target audience, and goals.
   - User connects their website (via plugin) and links social media accounts (Facebook, LinkedIn, X).
-
 - **Content ideation and generation**
   - User selects or inputs topics/keywords or lets Floowe analyze popular content in their niche.
   - Platform generates a list of article ideas.
   - User selects preferred ideas and triggers article generation.
   - Floowe produces draft articles with embedded SEO keywords.
-
 - **Content editing and enhancement**
   - User opens the generated article in a Word-like editor.
   - User edits text, adjusts structure, and personalizes style and tone.
   - User selects or uploads graphics for the article.
-
 - **Social content creation and distribution**
   - Based on the article, Floowe automatically generates social media posts.
   - User reviews and optionally edits the generated posts.
   - User schedules or confirms automatic publishing to connected social channels and website.
-
 - **SEO and performance follow-up**
   - Over time, Floowe tracks impact on SEO (e.g., improved positions in Google).
   - User reviews results and iterates by generating new articles and posts.
@@ -74,20 +70,19 @@ Floowe is an AI-powered content creation and publishing platform that mimics the
 - **Content Management Systems (CMS)**
   - WordPress and other CMS platforms via plugins for automatic article publishing.
   - Headless CMS platforms (e.g., Contentful, Strapi) to push generated content into existing content pipelines.
-
 - **Social media platforms**
   - Direct integrations with Facebook, LinkedIn, and X (Twitter) for post scheduling and publishing.
   - Possible extension to other social platforms (Instagram, TikTok, YouTube Community, Pinterest) for broader reach.
-
 - **Marketing automation and CRM tools**
   - Email marketing platforms (e.g., Mailchimp, Sendinblue, HubSpot) to reuse generated content in newsletters and campaigns.
   - CRM systems (e.g., HubSpot, Pipedrive, Salesforce) to align content with lead nurturing and track campaign effectiveness.
   - Marketing automation suites to trigger content generation or publishing based on lifecycle events.
-
 - **Analytics and SEO tools**
   - Google Analytics and Google Search Console to measure traffic and ranking changes from Floowe-generated content.
   - SEO tools (e.g., Ahrefs, Semrush, Moz) to feed keyword research data into Floowe for better topic and keyword selection.
-
 - **Collaboration and productivity tools**
   - Integration with tools like Slack, Microsoft Teams, or project management platforms for content reviews, approvals, and notifications.
 
+## Author's perspective
+
+Floowe solves a real problem for small businesses — the lack of time and resources to create content. Interesting feature is auto-publishing to all channels at the same time.
