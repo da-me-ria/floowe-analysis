@@ -77,6 +77,8 @@ Floowe is an AI-powered content creation and publishing platform that mimics the
   - Email marketing platforms (e.g., Mailchimp, Sendinblue, HubSpot) to reuse generated content in newsletters and campaigns.
   - CRM systems (e.g., HubSpot, Pipedrive, Salesforce) to align content with lead nurturing and track campaign effectiveness.
   - Marketing automation suites to trigger content generation or publishing based on lifecycle events.
+- **Automation platforms**
+  - Zapier, Make (Integromat), n8n for no-code workflows that react to Floowe content events (e.g., on publish, update CRM or trigger email sequences).
 - **Analytics and SEO tools**
   - Google Analytics and Google Search Console to measure traffic and ranking changes from Floowe-generated content.
   - SEO tools (e.g., Ahrefs, Semrush, Moz) to feed keyword research data into Floowe for better topic and keyword selection.
